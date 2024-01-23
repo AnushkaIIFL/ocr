@@ -1,0 +1,376 @@
+2024-01-23 14:25:20 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-23 14:25:20 INFO: [33mPress CTRL+C to quit[0m
+2024-01-23 14:25:45 INFO: Inside udyam_ocr
+2024-01-23 14:25:58 INFO: Extracted Text: Page 1:
+18/10/2023, 15:00
+
+Print : Udyam Registration Certificate
+
+ART AER HSM=
+
+Government of India aan , ay ust Hea Tee
+
+. . MOCRO, SMALL & MEDIUM ENTERPRISES
+ean, A Ud Fea Say AAT AS
+
+UDYAM REGISTRATION NUMBER
+
+NAME OF ENTERPRISE
+
+TYPE OF ENTERPRISE *
+
+MAJOR ACTIVITY
+
+SOCIAL CATEGORY OF
+ENTREPRENEUR
+
+NAME OF UNIT(S)
+
+OFFICAL ADDRESS OF ENTERPRISE
+
+DATE OF INCORPORATION /
+REGISTRATION OF ENTERPRISE
+
+Ministry of Micro, Small and Medium Enterprises
+
+UDYAM REGISTRATION CERTIFICATE
+
+UDYAM-GJ-01-0189775
+
+K GS SYNTHETICS
+
+GENERAL
+
+Name of Unit(s)
+K GS SYNTHETICS
+
+Flat/Door/Block No. D 274 3RD FLOOR Name of Premises/ Building SUMEL BUSINESS PARK-2
+
+01/04/2017
+
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx
+
+Page 2:
+18/10/2023, 15:01 Print : Udyam Registration Certificate
+
+DATE OF COMMENCEMENT OF
+PRODUCTION/BUSINESS
+
+NIC 2 Digit NIC 4 Digit NIC 5 Digit
+1 _ _ Binich} F _ Binich} F
+NATIONAL INDUSTRY 1 neta of 1313 - Finishing of textiles hottes Finishing of cotton and blended cotton
+CLASSIFICATION CODE(S) :
+2 13 - Manufacture of 1399 - Manufacture of other 13999 - Manufacture of other textiles/textile Manufacturing
+textiles textiles n.e.c. products n.e.c.
+
+DATE OF UDYAM REGISTRATION 17/08/2022
+
+“In case of graduation (upward/reverse) of status of an enterprise, the benefit of the Government Schemes will be availed as per the provisions of Notification No. S.O. 2119(E) dated
+26.06.2020 issued by the M/o MSME.
+
+Disclaimer: This is computer generated statement, no signature required. Printed from https://udyamregistration.gov.in & Date of printing:- 18/10/2023
+
+For any assistance, you may contact:
+
+1. District Industries Centre: | AHMEDABAD (GUJARAT )
+
+2. MSME-DFO: AHMEDABAD ( GUJARAT )
+
+Visit : www.msme.gov.in ; www.dcmsme.gov.in ; www.champions.gov.in
+
+CA Cea (> ; ‘a :
+(i) @) @) (©) Follow us @minmsme & @ ©) @msmechampions
+
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx 2/5
+
+Page 3:
+18/10/2023, 15:01 Print : Uddyam Registration Certificate
+
+emma loeamkiead
+Government of India aan , tava Hea SEH
+
+ud Hated a WOCRO, SMALL & MEDIUM ENTERPRISES
+Ministry of Micro, Small and Medium Enterprises
+
+Udyam Registration Number : UDYAM-GJ-01-0189775
+
+Type of Enterprise MICRO Major Activity
+
+Type of Organisation Name of Enterprise K GS SYNTHETICS
+
+SHRI GIRISH RAMESHCHANDRA
+
+Do you have GSTIN Mobile No. 9772228773
+Email Id | gst30-keshav@yahoo.com Social Category
+
+Date of Incorporation | 01/04/2017 Date of Commencemen tof
+Production/Business
+
+Bank Details
+
+ICICI BANK ICIC0006548 654805600832
+
+Employment Details
+
+a a a
+
+Investment in Plant and Machinery OR Equipment (in Rs.)
+
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx 3/5
+
+Page 4:
+18/10/2023, 15:01 Print : Udyam Registration Certificate
+
+Exclusion of cost of
+Pollution Control, Net Investment in Plant and Export
+Research & Development Machinery OR Turnover
+
+and Industrial Safety Equipment[(A)-(B)] (B)
+7”
+
+2021-22 Micro 0.00 0.00 Yes TR -
+55,6
+
+Net Turnover || IsITR || ITR
+
+Financial || Enterprise || Written Down
+, [(A)-(B)] Filled? || Type
+
+Year Value (WDV)
+
+SUMEL
+KGS D 274 33RD B/H VANIJAYA KANKARIA
+SYNTHETICS FLOOR BUSINESS PARK- BHAVAN KANKARIA ROAD AHMEDABAD | 380022 | GUJARAT | AHMADABAD
+
+Official address of Enterprise
+
+a
+
+National Industry Classification Code(S)
+
+Nic 2 Digit Nic 4 Digit Nic 5 Digit
+
+13 - Manufacture of textiles 1313 - Finishing of textiles 13131 - Finishing of cotton and blended cotton textiles.
+13 - Manufacture of textiles 1399 - Manufacture of other textiles n.e.c. 13999 - Manufacture of other textiles/textile products n.e.c.
+
+Are you interested to get registered on Government e-Market (GeM) Portal No
+
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx 4/5
+
+Page 5:
+18/10/2023, 15:01 Print : Udyam Registration Certificate
+
+Date of Printing 18/10/2023
+
+IEC Details
+
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx
+
+5/5
+
+2024-01-23 14:26:01 INFO: Response from gpt: {
+  "UDYAM REGISTRATION NUMBER": "UDYAM-GJ-01-0189775",
+  "NAME OF ENTERPRISE": "K GS SYNTHETICS",
+  "TYPE OF ENTERPRISE": "MICRO",
+  "SOCIAL CATEGORY OF ENTERPRENEUR": "NOT AVAILABLE",
+  "DATE OF INCORPORATION/ REGISTRATION OF ENTERPRISE": "01/04/2017",
+  "DATE OF COMMENCEMENT OF PRODUCTION/BUSINESS": "NOT AVAILABLE",
+  "DATE OF UDYAM REGISTRATION": "17/08/2022",
+  "NATIONAL INDUSTRY CLASIFICATION CODE(s)": {
+    "2 digit code with activity": "13 - Manufacture of textiles",
+    "4 digit code with activity": "1399 - Manufacture of other textiles n.e.c.",
+    "5 digit code with activity": "13999 - Manufacture of other textiles/textile products n.e.c.",
+    "and Activity": "NOT AVAILABLE"
+  },
+  "PIN CODE": "NOT AVAILABLE"
+}
+2024-01-23 14:26:01 INFO: 127.0.0.1 - - [23/Jan/2024 14:26:01] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-23 14:26:29 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-23 14:26:29 INFO: [33mPress CTRL+C to quit[0m
+2024-01-23 14:26:40 INFO: Inside udyam_ocr
+2024-01-23 14:26:51 INFO: Extracted Text: Page 1:
+18/10/2023, 15:00
+
+Print : Udyam Registration Certificate
+
+ART AER HSM=
+
+Government of India aan , ay ust Hea Tee
+
+. . MOCRO, SMALL & MEDIUM ENTERPRISES
+ean, A Ud Fea Say AAT AS
+
+UDYAM REGISTRATION NUMBER
+
+NAME OF ENTERPRISE
+
+TYPE OF ENTERPRISE *
+
+MAJOR ACTIVITY
+
+SOCIAL CATEGORY OF
+ENTREPRENEUR
+
+NAME OF UNIT(S)
+
+OFFICAL ADDRESS OF ENTERPRISE
+
+DATE OF INCORPORATION /
+REGISTRATION OF ENTERPRISE
+
+Ministry of Micro, Small and Medium Enterprises
+
+UDYAM REGISTRATION CERTIFICATE
+
+UDYAM-GJ-01-0189775
+
+K GS SYNTHETICS
+
+GENERAL
+
+Name of Unit(s)
+K GS SYNTHETICS
+
+Flat/Door/Block No. D 274 3RD FLOOR Name of Premises/ Building SUMEL BUSINESS PARK-2
+
+01/04/2017
+
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx
+
+Page 2:
+18/10/2023, 15:01 Print : Udyam Registration Certificate
+
+DATE OF COMMENCEMENT OF
+PRODUCTION/BUSINESS
+
+NIC 2 Digit NIC 4 Digit NIC 5 Digit
+1 _ _ Binich} F _ Binich} F
+NATIONAL INDUSTRY 1 neta of 1313 - Finishing of textiles hottes Finishing of cotton and blended cotton
+CLASSIFICATION CODE(S) :
+2 13 - Manufacture of 1399 - Manufacture of other 13999 - Manufacture of other textiles/textile Manufacturing
+textiles textiles n.e.c. products n.e.c.
+
+DATE OF UDYAM REGISTRATION 17/08/2022
+
+“In case of graduation (upward/reverse) of status of an enterprise, the benefit of the Government Schemes will be availed as per the provisions of Notification No. S.O. 2119(E) dated
+26.06.2020 issued by the M/o MSME.
+
+Disclaimer: This is computer generated statement, no signature required. Printed from https://udyamregistration.gov.in & Date of printing:- 18/10/2023
+
+For any assistance, you may contact:
+
+1. District Industries Centre: | AHMEDABAD (GUJARAT )
+
+2. MSME-DFO: AHMEDABAD ( GUJARAT )
+
+Visit : www.msme.gov.in ; www.dcmsme.gov.in ; www.champions.gov.in
+
+CA Cea (> ; ‘a :
+(i) @) @) (©) Follow us @minmsme & @ ©) @msmechampions
+
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx 2/5
+
+Page 3:
+18/10/2023, 15:01 Print : Uddyam Registration Certificate
+
+emma loeamkiead
+Government of India aan , tava Hea SEH
+
+ud Hated a WOCRO, SMALL & MEDIUM ENTERPRISES
+Ministry of Micro, Small and Medium Enterprises
+
+Udyam Registration Number : UDYAM-GJ-01-0189775
+
+Type of Enterprise MICRO Major Activity
+
+Type of Organisation Name of Enterprise K GS SYNTHETICS
+
+SHRI GIRISH RAMESHCHANDRA
+
+Do you have GSTIN Mobile No. 9772228773
+Email Id | gst30-keshav@yahoo.com Social Category
+
+Date of Incorporation | 01/04/2017 Date of Commencemen tof
+Production/Business
+
+Bank Details
+
+ICICI BANK ICIC0006548 654805600832
+
+Employment Details
+
+a a a
+
+Investment in Plant and Machinery OR Equipment (in Rs.)
+
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx 3/5
+
+Page 4:
+18/10/2023, 15:01 Print : Udyam Registration Certificate
+
+Exclusion of cost of
+Pollution Control, Net Investment in Plant and Export
+Research & Development Machinery OR Turnover
+
+and Industrial Safety Equipment[(A)-(B)] (B)
+7”
+
+2021-22 Micro 0.00 0.00 Yes TR -
+55,6
+
+Net Turnover || IsITR || ITR
+
+Financial || Enterprise || Written Down
+, [(A)-(B)] Filled? || Type
+
+Year Value (WDV)
+
+SUMEL
+KGS D 274 33RD B/H VANIJAYA KANKARIA
+SYNTHETICS FLOOR BUSINESS PARK- BHAVAN KANKARIA ROAD AHMEDABAD | 380022 | GUJARAT | AHMADABAD
+
+Official address of Enterprise
+
+a
+
+National Industry Classification Code(S)
+
+Nic 2 Digit Nic 4 Digit Nic 5 Digit
+
+13 - Manufacture of textiles 1313 - Finishing of textiles 13131 - Finishing of cotton and blended cotton textiles.
+13 - Manufacture of textiles 1399 - Manufacture of other textiles n.e.c. 13999 - Manufacture of other textiles/textile products n.e.c.
+
+Are you interested to get registered on Government e-Market (GeM) Portal No
+
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx 4/5
+
+Page 5:
+18/10/2023, 15:01 Print : Udyam Registration Certificate
+
+Date of Printing 18/10/2023
+
+IEC Details
+
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx
+
+5/5
+
+2024-01-23 14:26:54 INFO: Response from gpt: {
+  "UDYAM REGISTRATION NUMBER": "UDYAM-GJ-01-0189775",
+  "NAME OF ENTERPRISE": "K GS SYNTHETICS",
+  "TYPE OF ENTERPRISE": "MICRO",
+  "SOCIAL CATEGORY OF ENTERPRENEUR": "NOT AVAILABLE",
+  "DATE OF INCORPORATION/ REGISTRATION OF ENTERPRISE": "01/04/2017",
+  "DATE OF COMMENCEMENT OF PRODUCTION/BUSINESS": "NOT AVAILABLE",
+  "DATE OF UDYAM REGISTRATION": "17/08/2022",
+  "NATIONAL INDUSTRY CLASIFICATION CODE(s)": {
+    "2 digit code with activity": "13 - Manufacture of textiles",
+    "4 digit code with activity": "1399 - Manufacture of other textiles n.e.c.",
+    "5 digit code with activity": "13999 - Manufacture of other textiles/textile products n.e.c.",
+    "and Activity": "NOT AVAILABLE"
+  },
+  "PIN CODE": "NOT AVAILABLE"
+}
+2024-01-23 14:26:54 INFO: 127.0.0.1 - - [23/Jan/2024 14:26:54] "POST /api/udyam/upload HTTP/1.1" 200 -

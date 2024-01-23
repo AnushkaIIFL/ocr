@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 from flask import Flask, request, Blueprint
 import json
 import sys
+from logger import logger_msg
 
 # sys.path.append('..') 
 from document_ocr import extract_text
@@ -61,22 +62,26 @@ def translate_ocr(extracted_text,lang="eng"):
 
 @udyam.route('/api/udyam/upload', methods=["POST"])
 def udyam_ocr():
-    # print("*****************************")
-    file = request.files["file"]
-    # lang = request.form['lang']
-    # print("lang = ",lang)
-    file_name = file.filename
-    extracted_text=extract_text(file,file_name,lang="eng")
-    print("Extracted Text: ",extracted_text)
-    response=translate_ocr(extracted_text,lang="eng")
-    print(response)
-    
-    
+    logger_msg("Inside udyam_ocr")
     try:
-        json_data = json.loads(response)
-        return json_data
-    except :
-        return ("Invalid output format")
+        file = request.files["file"]
+        # lang = request.form['lang']
+        # print("lang = ",lang)
+        file_name = file.filename
+        extracted_text=extract_text(file,file_name,lang="eng")
+        logger_msg(f"Extracted Text: {extracted_text}")
+        response=translate_ocr(extracted_text,lang="eng")
+        logger_msg(f"Response from gpt: {response}")
+        
+    
+    
+        if response:
+            json_data = json.loads(response)
+            return json_data
+        else :
+            return ("Invalid output format")
+    except Exception as e:
+         logger_msg(f"Error in udyam_ocr: {str(e)}")
 # if __name__ == '__main__':
 #     app.run(debug=True)
 
