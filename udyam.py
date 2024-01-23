@@ -68,8 +68,10 @@ def udyam_ocr():
         # lang = request.form['lang']
         # print("lang = ",lang)
         file_name = file.filename
+        logger_msg(f"File name: {file_name}")
         extracted_text=extract_text(file,file_name,lang="eng")
-        logger_msg(f"Extracted Text: {extracted_text}")
+        logger_msg("Text is extracted")
+        # logger_msg(f"Extracted Text: {extracted_text}")
         response=translate_ocr(extracted_text,lang="eng")
         logger_msg(f"Response from gpt: {response}")
         
