@@ -8,7 +8,8 @@ import sys
 from logger import logger_msg
 
 # sys.path.append('..') 
-from document_ocr import extract_text
+# from document_ocr import extract_text
+from ocr import extract_text
 load_dotenv()
 
 udyam = Blueprint('udyam', __name__)
