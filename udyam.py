@@ -34,15 +34,15 @@ def translate_ocr(extracted_text,lang="eng"):
        Please analyze the data and extract only the following fields in key:value pair (JSON format)
        
 
-     -UDYAM REGISTRATION NUMBER
-     -NAME OF ENTERPRISE
-     -TYPE OF ENTERPRISE
-     -SOCIAL CATEGORY OF ENTERPRENEUR
-     -DATE OF INCORPORATION/ REGISTRATION OF ENTERPRISE
-     -DATE OF COMMENCEMENT OF PRODUCTION/BUSINESS
-     -DATE OF UDYAM REGISTRATION
-     -NATIONAL INDUSTRY CLASIFICATION CODE(s) #nic(s) 2 digit code with activity, #nic(s) 4 digit code with activity, #nic(s) 5 digit code with activity, #and Activity
-     -PIN CODE
+    - udyam_registration_number
+    - name_of_enterprise
+    - type_of_enterprise
+    - social_category_of_enterpreneur
+    - date_of_incorporation_registration_of_enterprise
+    - date_of_commencement_of_production_business
+    - date_of_udyam_registration
+    - national_industry_clasification_codes #nic(s) 2 digit code with activity, #nic(s) 4 digit code with activity, #nic(s) 5 digit code with activity, #and Activity
+    - pin_code
 
      If value is not available please return NOT AVAILABLE
     """	
