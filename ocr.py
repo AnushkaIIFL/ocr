@@ -3,8 +3,15 @@ import fitz  # PyMuPDF
 import pytesseract
 from PIL import Image
 import io
+from logger import logger_msg
+
+
+pytesseract.pytesseract.tesseract_cmd = os.getenv('TESSERACT_PATH')
 
 def extract_text(file, input_path, lang='eng'):
+    logger_msg("Inside extract_text function")
+    logger_msg(f"Tesseract path: {os.getenv('TESSERACT_PATH')}")
+
     if input_path.lower().endswith(('.png', '.jpg', '.jpeg', '.tiff', '.bmp', '.gif')):
         image = Image.open(file)
         text = pytesseract.image_to_string(image, lang=lang)
