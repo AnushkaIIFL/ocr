@@ -11,11 +11,12 @@ pytesseract.pytesseract.tesseract_cmd = os.getenv('TESSERACT_PATH')
 def extract_text(file, input_path, lang='eng'):
     logger_msg("Inside extract_text function")
     logger_msg(f"Tesseract path: {os.getenv('TESSERACT_PATH')}")
-
-    if input_path.lower().endswith(('.png', '.jpg', '.jpeg', '.tiff', '.bmp', '.gif')):
+    if input_path.lower().endswith(('.png', '.jpg', '.jpeg')):
         image = Image.open(file)
         text = pytesseract.image_to_string(image, lang=lang)
+        return text
     elif input_path.lower().endswith('.pdf'):
+
         pdf_document = fitz.open("pdf", file.read())
         pdf_text = []
         for page_num in range(len(pdf_document)):
@@ -27,7 +28,9 @@ def extract_text(file, input_path, lang='eng'):
             pdf_text.append(f"Page {page_num + 1}:\n{page_text}")
         text = "\n".join(pdf_text)
         pdf_document.close()
+        logger_msg("Extracted text from pdf and returned to API")
+        return text
     else:
-        raise ValueError("Unsupported file format. Use an image (png, jpg, etc.) or a PDF.")
-
-    return text
+        # raise ValueError("Unsupported file format. Use an image (png, jpg, etc.) or a PDF.")
+        return {"error": "Unsupported file format. Use an image (png, jpg, etc.) or a PDF."}
+    

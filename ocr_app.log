@@ -66,7 +66,7 @@ textiles textiles n.e.c. products n.e.c.
 
 DATE OF UDYAM REGISTRATION 17/08/2022
 
-“In case of graduation (upward/reverse) of status of an enterprise, the benefit of the Government Schemes will be availed as per the provisions of Notification No. S.O. 2119(E) dated
+ï¿½In case of graduation (upward/reverse) of status of an enterprise, the benefit of the Government Schemes will be availed as per the provisions of Notification No. S.O. 2119(E) dated
 26.06.2020 issued by the M/o MSME.
 
 Disclaimer: This is computer generated statement, no signature required. Printed from https://udyamregistration.gov.in & Date of printing:- 18/10/2023
@@ -79,8 +79,8 @@ For any assistance, you may contact:
 
 Visit : www.msme.gov.in ; www.dcmsme.gov.in ; www.champions.gov.in
 
-CA Cea (> ; ‘a :
-(i) @) @) (©) Follow us @minmsme & @ ©) @msmechampions
+CA Cea (> ; ï¿½a :
+(i) @) @) (ï¿½) Follow us @minmsme & @ ï¿½) @msmechampions
 
 https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx 2/5
 
@@ -127,7 +127,7 @@ Pollution Control, Net Investment in Plant and Export
 Research & Development Machinery OR Turnover
 
 and Industrial Safety Equipment[(A)-(B)] (B)
-7”
+7ï¿½
 
 2021-22 Micro 0.00 0.00 Yes TR -
 55,6
@@ -254,7 +254,7 @@ textiles textiles n.e.c. products n.e.c.
 
 DATE OF UDYAM REGISTRATION 17/08/2022
 
-“In case of graduation (upward/reverse) of status of an enterprise, the benefit of the Government Schemes will be availed as per the provisions of Notification No. S.O. 2119(E) dated
+ï¿½In case of graduation (upward/reverse) of status of an enterprise, the benefit of the Government Schemes will be availed as per the provisions of Notification No. S.O. 2119(E) dated
 26.06.2020 issued by the M/o MSME.
 
 Disclaimer: This is computer generated statement, no signature required. Printed from https://udyamregistration.gov.in & Date of printing:- 18/10/2023
@@ -267,8 +267,8 @@ For any assistance, you may contact:
 
 Visit : www.msme.gov.in ; www.dcmsme.gov.in ; www.champions.gov.in
 
-CA Cea (> ; ‘a :
-(i) @) @) (©) Follow us @minmsme & @ ©) @msmechampions
+CA Cea (> ; ï¿½a :
+(i) @) @) (ï¿½) Follow us @minmsme & @ ï¿½) @msmechampions
 
 https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx 2/5
 
@@ -315,7 +315,7 @@ Pollution Control, Net Investment in Plant and Export
 Research & Development Machinery OR Turnover
 
 and Industrial Safety Equipment[(A)-(B)] (B)
-7”
+7ï¿½
 
 2021-22 Micro 0.00 0.00 Yes TR -
 55,6
@@ -400,3 +400,1371 @@ https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx
 2024-01-25 09:24:04 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
 2024-01-25 09:24:04 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 09:57:21 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 09:57:21 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 09:58:24 ERROR: 127.0.0.1 - - [30/Jan/2024 09:58:24] code 400, message Bad request version ('ï¿½\x13ï¿½')
+2024-01-30 09:58:24 INFO: 127.0.0.1 - - [30/Jan/2024 09:58:24] "[31m[1m\x16\x03\x01\x00ï¿½\x01\x00\x00ï¿½\x03\x03]7\x90\x0bï¿½<\x02ï¿½@ï¿½\x17\x112ï¿½{\x92ï¿½ï¿½\x886ï¿½=<\\w\x9b\x02\x12\x83\x10aB ï¿½"\x0e\x13ï¿½d\x86ï¿½h\x86ï¿½Xï¿½ï¿½f\x85ï¿½`y:\x7fa\x15.ï¿½ï¿½Lï¿½#k\x1a\x00$\x13\x01\x13\x02\x13\x03ï¿½/ï¿½+ï¿½0ï¿½,Ì©Ì¨ï¿½\x09ï¿½\x13ï¿½[0m" 400 -
+2024-01-30 10:00:16 INFO: Inside udyam_ocr
+2024-01-30 10:00:16 INFO: Error in udyam_ocr: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2024-01-30 10:00:16 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'udyam.udyam_ocr' did not return a valid response. The function either returned None or ended without a return statement.
+2024-01-30 10:00:16 INFO: 127.0.0.1 - - [30/Jan/2024 10:00:16] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 10:00:39 INFO: Inside udyam_ocr
+2024-01-30 10:00:39 INFO: File name: 
+2024-01-30 10:00:39 INFO: Inside extract_text function
+2024-01-30 10:00:39 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 10:00:39 INFO: Error in udyam_ocr: Unsupported file format. Use an image (png, jpg, etc.) or a PDF.
+2024-01-30 10:00:39 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'udyam.udyam_ocr' did not return a valid response. The function either returned None or ended without a return statement.
+2024-01-30 10:00:39 INFO: 127.0.0.1 - - [30/Jan/2024 10:00:39] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 10:04:02 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 10:04:02 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 10:04:07 INFO: Inside udyam_ocr
+2024-01-30 10:04:07 INFO: File name: 
+2024-01-30 10:04:07 INFO: Inside extract_text function
+2024-01-30 10:04:07 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 10:04:07 INFO: Error in udyam_ocr: Unsupported file format. Use an image (png, jpg, etc.) or a PDF.
+2024-01-30 10:04:07 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'udyam.udyam_ocr' did not return a valid response. The function either returned None or ended without a return statement.
+2024-01-30 10:04:07 INFO: 127.0.0.1 - - [30/Jan/2024 10:04:07] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 10:04:34 INFO: Inside udyam_ocr
+2024-01-30 10:04:34 INFO: File name: 
+2024-01-30 10:04:34 INFO: Inside extract_text function
+2024-01-30 10:04:34 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 10:04:34 INFO: Error in udyam_ocr: Unsupported file format. Use an image (png, jpg, etc.) or a PDF.
+2024-01-30 10:04:34 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'udyam.udyam_ocr' did not return a valid response. The function either returned None or ended without a return statement.
+2024-01-30 10:04:34 INFO: 127.0.0.1 - - [30/Jan/2024 10:04:34] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 10:06:08 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 10:06:08 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 10:06:12 INFO: Inside udyam_ocr
+2024-01-30 10:06:12 INFO: File name: 
+2024-01-30 10:06:12 INFO: Inside extract_text function
+2024-01-30 10:06:12 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 10:06:12 INFO: Error in udyam_ocr: Unsupported file format. Use an image (png, jpg, etc.) or a PDF.
+2024-01-30 10:06:12 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a ValueError.
+2024-01-30 10:06:12 INFO: 127.0.0.1 - - [30/Jan/2024 10:06:12] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 10:06:51 INFO: Inside udyam_ocr
+2024-01-30 10:06:51 INFO: File name: 
+2024-01-30 10:06:51 INFO: Inside extract_text function
+2024-01-30 10:06:51 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 10:06:51 INFO: Error in udyam_ocr: Unsupported file format. Use an image (png, jpg, etc.) or a PDF.
+2024-01-30 10:06:51 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a ValueError.
+2024-01-30 10:06:51 INFO: 127.0.0.1 - - [30/Jan/2024 10:06:51] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 10:09:48 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 10:09:48 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 10:09:49 INFO: Inside udyam_ocr
+2024-01-30 10:09:49 INFO: File name: 
+2024-01-30 10:09:49 INFO: Error in udyam_ocr: cannot access local variable 'response' where it is not associated with a value
+2024-01-30 10:09:49 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a UnboundLocalError.
+2024-01-30 10:09:49 INFO: 127.0.0.1 - - [30/Jan/2024 10:09:49] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 10:46:57 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 10:46:57 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 10:47:02 INFO: Inside udyam_ocr
+2024-01-30 10:47:02 INFO: File name: 
+2024-01-30 10:47:02 INFO: Inside extract_text function
+2024-01-30 10:47:02 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 10:47:02 INFO: Error in udyam_ocr: Unsupported file format. Use an image (png, jpg, etc.) or a PDF.
+2024-01-30 10:47:02 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a ValueError.
+2024-01-30 10:47:02 INFO: 127.0.0.1 - - [30/Jan/2024 10:47:02] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 10:48:51 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 10:48:51 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 10:48:55 INFO: Inside udyam_ocr
+2024-01-30 10:48:55 INFO: File name: 
+2024-01-30 10:48:55 INFO: Inside extract_text function
+2024-01-30 10:48:55 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 10:48:55 INFO: Unsupported file format. Use an image (png, jpg, etc.) or a PDF.
+2024-01-30 10:48:55 INFO: Text is extracted
+2024-01-30 10:48:57 INFO: Response from gpt: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "NOT AVAILABLE",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "NOT AVAILABLE",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 10:48:57 INFO: 127.0.0.1 - - [30/Jan/2024 10:48:57] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 10:49:52 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 10:49:52 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 10:49:53 INFO: Inside udyam_ocr
+2024-01-30 10:49:53 INFO: File name: 
+2024-01-30 10:49:53 INFO: Inside extract_text function
+2024-01-30 10:49:53 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 10:49:53 INFO: Unsupported file format. Use an image (png, jpg, etc.) or a PDF.
+2024-01-30 10:49:53 INFO: Text is extracted
+2024-01-30 10:49:55 INFO: Response from gpt: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "NOT AVAILABLE",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "NOT AVAILABLE",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 10:49:55 INFO: 127.0.0.1 - - [30/Jan/2024 10:49:55] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 10:50:59 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 10:50:59 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 10:50:59 INFO: Inside udyam_ocr
+2024-01-30 10:50:59 INFO: File name: 
+2024-01-30 10:50:59 INFO: Inside extract_text function
+2024-01-30 10:50:59 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 10:50:59 INFO: Unsupported file format. Use an image (png, jpg, etc.) or a PDF.
+2024-01-30 10:50:59 INFO: Text is extracted
+2024-01-30 10:51:01 INFO: Response from gpt: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "NOT AVAILABLE",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "NOT AVAILABLE",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 10:51:01 INFO: 127.0.0.1 - - [30/Jan/2024 10:51:01] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 10:53:13 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 10:53:13 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 10:53:16 INFO: Inside udyam_ocr
+2024-01-30 10:53:16 INFO: File name: 
+2024-01-30 10:53:16 INFO: Inside extract_text function
+2024-01-30 10:53:16 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 10:53:16 INFO: Error in udyam_ocr: Unsupported file format. Use an image (png, jpg, etc.) or a PDF.
+2024-01-30 10:53:16 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a ValueError.
+2024-01-30 10:53:16 INFO: 127.0.0.1 - - [30/Jan/2024 10:53:16] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 10:55:21 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 10:55:21 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 10:55:24 INFO: Inside udyam_ocr
+2024-01-30 10:55:24 INFO: No document sent in API
+2024-01-30 10:55:24 INFO: 127.0.0.1 - - [30/Jan/2024 10:55:24] "[31m[1mPOST /api/udyam/upload HTTP/1.1[0m" 409 -
+2024-01-30 10:56:28 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 10:56:28 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 10:56:31 INFO: Inside udyam_ocr
+2024-01-30 10:56:31 INFO: File name: 
+2024-01-30 10:56:31 INFO: Inside extract_text function
+2024-01-30 10:56:31 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 10:56:31 INFO: Error in udyam_ocr: Unsupported file format. Use an image (png, jpg, etc.) or a PDF.
+2024-01-30 10:56:31 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a ValueError.
+2024-01-30 10:56:31 INFO: 127.0.0.1 - - [30/Jan/2024 10:56:31] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 11:01:00 INFO: Inside udyam_ocr
+2024-01-30 11:01:00 INFO: No document sent in API
+2024-01-30 11:01:00 INFO: 127.0.0.1 - - [30/Jan/2024 11:01:00] "[31m[1mPOST /api/udyam/upload HTTP/1.1[0m" 409 -
+2024-01-30 11:01:33 INFO: Inside udyam_ocr
+2024-01-30 11:01:33 INFO: File name: 
+2024-01-30 11:01:33 INFO: Inside extract_text function
+2024-01-30 11:01:33 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:01:33 INFO: Error in udyam_ocr: Unsupported file format. Use an image (png, jpg, etc.) or a PDF.
+2024-01-30 11:01:33 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a ValueError.
+2024-01-30 11:01:33 INFO: 127.0.0.1 - - [30/Jan/2024 11:01:33] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 11:01:39 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:01:39 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:01:41 INFO: Inside udyam_ocr
+2024-01-30 11:01:41 INFO: No document sent in API
+2024-01-30 11:01:41 INFO: 127.0.0.1 - - [30/Jan/2024 11:01:41] "[31m[1mPOST /api/udyam/upload HTTP/1.1[0m" 409 -
+2024-01-30 11:01:48 INFO: Inside udyam_ocr
+2024-01-30 11:01:48 INFO: File name: giphy.gif
+2024-01-30 11:01:48 INFO: Inside extract_text function
+2024-01-30 11:01:48 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:01:48 INFO: Error in udyam_ocr: Unsupported file format. Use an image (png, jpg, etc.) or a PDF.
+2024-01-30 11:01:48 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a ValueError.
+2024-01-30 11:01:48 INFO: 127.0.0.1 - - [30/Jan/2024 11:01:48] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 11:03:41 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:03:41 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:03:47 INFO: Inside udyam_ocr
+2024-01-30 11:03:47 INFO: File name: giphy.gif
+2024-01-30 11:03:47 INFO: Inside extract_text function
+2024-01-30 11:03:47 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:03:47 INFO: Text is extracted
+2024-01-30 11:03:50 INFO: Response from gpt: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "NOT AVAILABLE",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "NOT AVAILABLE",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 11:03:50 INFO: 127.0.0.1 - - [30/Jan/2024 11:03:50] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:05:03 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:05:03 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:05:04 INFO: Inside udyam_ocr
+2024-01-30 11:05:04 INFO: File name: giphy.gif
+2024-01-30 11:05:04 INFO: Inside extract_text function
+2024-01-30 11:05:04 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:05:04 INFO: Text is extracted
+2024-01-30 11:05:06 INFO: Response from gpt: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "NOT AVAILABLE",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "NOT AVAILABLE",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 11:05:06 INFO: 127.0.0.1 - - [30/Jan/2024 11:05:06] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:05:51 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:05:51 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:05:53 INFO: Inside udyam_ocr
+2024-01-30 11:05:53 INFO: File name: giphy.gif
+2024-01-30 11:05:53 INFO: Inside extract_text function
+2024-01-30 11:05:53 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:05:53 INFO: Text is extracted
+2024-01-30 11:05:55 INFO: Response from gpt: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "NOT AVAILABLE",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "NOT AVAILABLE",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 11:05:55 INFO: 127.0.0.1 - - [30/Jan/2024 11:05:55] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:09:18 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:09:18 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:09:32 INFO: Inside udyam_ocr
+2024-01-30 11:09:32 INFO: File name: giphy.gif
+2024-01-30 11:09:32 INFO: Inside extract_text function
+2024-01-30 11:09:32 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:09:32 INFO: 127.0.0.1 - - [30/Jan/2024 11:09:32] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:10:12 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:10:12 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:10:14 INFO: Inside udyam_ocr
+2024-01-30 11:10:14 INFO: File name: giphy.gif
+2024-01-30 11:10:14 INFO: Inside extract_text function
+2024-01-30 11:10:14 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:10:14 INFO: 127.0.0.1 - - [30/Jan/2024 11:10:14] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:10:34 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:10:34 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:10:35 INFO: Inside udyam_ocr
+2024-01-30 11:10:35 INFO: File name: giphy.gif
+2024-01-30 11:10:35 INFO: Inside extract_text function
+2024-01-30 11:10:35 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:10:35 INFO: 127.0.0.1 - - [30/Jan/2024 11:10:35] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:13:05 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:13:05 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:13:10 INFO: Inside udyam_ocr
+2024-01-30 11:13:10 INFO: File name: giphy.gif
+2024-01-30 11:13:10 INFO: Inside extract_text function
+2024-01-30 11:13:10 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:13:10 INFO: 127.0.0.1 - - [30/Jan/2024 11:13:10] "[31m[1mPOST /api/udyam/upload HTTP/1.1[0m" 409 -
+2024-01-30 11:13:15 INFO: Inside udyam_ocr
+2024-01-30 11:13:15 INFO: No document sent in API
+2024-01-30 11:13:15 INFO: 127.0.0.1 - - [30/Jan/2024 11:13:15] "[31m[1mPOST /api/udyam/upload HTTP/1.1[0m" 409 -
+2024-01-30 11:13:28 INFO: Inside udyam_ocr
+2024-01-30 11:13:28 INFO: File name: Others_9.pdf
+2024-01-30 11:13:28 INFO: Inside extract_text function
+2024-01-30 11:13:28 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:13:31 INFO: Error in udyam_ocr: string indices must be integers, not 'str'
+2024-01-30 11:13:31 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a TypeError.
+2024-01-30 11:13:31 INFO: 127.0.0.1 - - [30/Jan/2024 11:13:31] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 11:15:17 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:15:17 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:15:19 INFO: Inside udyam_ocr
+2024-01-30 11:15:19 INFO: File name: Others_9.pdf
+2024-01-30 11:15:19 INFO: Inside extract_text function
+2024-01-30 11:15:19 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:15:21 INFO: Error in udyam_ocr: string indices must be integers, not 'str'
+2024-01-30 11:15:21 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a TypeError.
+2024-01-30 11:15:21 INFO: 127.0.0.1 - - [30/Jan/2024 11:15:21] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 11:17:03 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:17:03 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:17:08 INFO: Inside udyam_ocr
+2024-01-30 11:17:08 INFO: File name: Others_9.pdf
+2024-01-30 11:17:08 INFO: Inside extract_text function
+2024-01-30 11:17:08 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:17:10 INFO: Error in udyam_ocr: string indices must be integers, not 'str'
+2024-01-30 11:17:10 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a TypeError.
+2024-01-30 11:17:10 INFO: 127.0.0.1 - - [30/Jan/2024 11:17:10] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 11:17:50 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:17:50 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:17:52 INFO: Inside udyam_ocr
+2024-01-30 11:17:52 INFO: File name: Others_9.pdf
+2024-01-30 11:17:52 INFO: Inside extract_text function
+2024-01-30 11:17:52 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:17:54 INFO: Error in udyam_ocr: string indices must be integers, not 'str'
+2024-01-30 11:17:54 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a TypeError.
+2024-01-30 11:17:54 INFO: 127.0.0.1 - - [30/Jan/2024 11:17:54] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 11:20:29 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:20:29 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:20:32 INFO: Inside udyam_ocr
+2024-01-30 11:20:32 INFO: File name: Others_9.pdf
+2024-01-30 11:20:32 INFO: Inside extract_text function
+2024-01-30 11:20:32 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:20:34 INFO: Extracted text from pdf and returned to API
+2024-01-30 11:20:34 INFO: Error in udyam_ocr: string indices must be integers, not 'str'
+2024-01-30 11:20:34 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a TypeError.
+2024-01-30 11:20:34 INFO: 127.0.0.1 - - [30/Jan/2024 11:20:34] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 11:21:58 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:21:58 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:21:59 INFO: Inside udyam_ocr
+2024-01-30 11:21:59 INFO: File name: Others_9.pdf
+2024-01-30 11:21:59 INFO: Inside extract_text function
+2024-01-30 11:21:59 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:22:01 INFO: Extracted text from pdf and returned to API
+2024-01-30 11:22:01 INFO: Error in udyam_ocr: string indices must be integers, not 'str'
+2024-01-30 11:22:01 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a TypeError.
+2024-01-30 11:22:01 INFO: 127.0.0.1 - - [30/Jan/2024 11:22:01] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 11:22:33 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:22:33 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:22:33 INFO: Inside udyam_ocr
+2024-01-30 11:22:33 INFO: File name: Others_9.pdf
+2024-01-30 11:22:33 INFO: Inside extract_text function
+2024-01-30 11:22:33 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:22:35 INFO: Extracted text from pdf and returned to API
+2024-01-30 11:22:35 INFO: Text is extracted
+2024-01-30 11:22:35 INFO: Extracted Text: Page 1:
+UDYAM REGISTRATION CERTIFICATE
+
+UDYAM REGISTRATION NUMBER UDYAM-G4-22-0197068
+
+NAME OF ENTERPRISE, LAVANYA CREATIONS
+
+ï¿½TYPE OF ENTERPRIS ï¿½SMALL (Based on FY 2020-21 )
+
+maronsemey Paneractonsg |
+
+SOCIAL CATEGORY OF
+ENTREPRENEUR GENERAL
+Ui) Name
+NAME OF UNITS)
+
+sturtoon,soe |Same TC MARKET
+OF ENTERPRISE J< UEECHTENTILE cy, sumar
+
+Mote ï¿½aunsuis Ena Ibvanyarentina eso
+
+DATE OF INCORPORATION /
+
+REGISTRATION OF ENTERPRISE, toro
+DATE OF COMMENCEMENT OF
+PRODUCTION/BUSINESS. toro
+NCA NCS Aa
+NATIONAL INDUSTRY 1999 - Manufacter of ther | Mansfactarng
+CLASSIFICATION CODE(S) lofother textes nee, textentene products nce
+DATE OF UDYAM REGISTRATION ozauz0n
+
+ï¿½mca of radaation apmardirverse af stats af am eaterprie, the beset ofthe Government Schemes wile sailed as pe the provisions of
+Nolieation Na. S.0-2119E) dated 26062020 fae bythe Mla MSME-
+Dicer Ths comptr gence semen, sgt rire. Pred om bipshanseptaton ori & Dat of pring 0212022
+
+For any assistance, you may contact:
+
+|. District Industries Centre: surat (cusanar)
+
+2. MSME-DFO: AHMEDABAD (GUIARAT)
+
+Visit : wwrwamsme.gov.in ; www.demsme.gov:
+
+i www.champions.gov
+
+
+Page 2:
+
+Page 3:
+Aa ATER
+Government of india
+
+Aes, ory ed me se Ter
+Ministry of Micro, Small and Medium Enterprises
+
+Taam Regi anv
+Type of Emer] SMALL Naor Aety
+Type of Orgunlaton| Proprietary ï¿½Name of Enterprise LAVANYA CREATIONS
+ï¿½Owner Name SHRI RISHAV AGARWAL PAN BNZPALI6C
+Do you have GSTIN Yes Mobile No, $233725115
+Email 14 ivanyncreton@catonin Social Category | General
+Specialy |,
+Gender | Male Abled(DIVYANG) N
+Date of Commencement of
+Date of Incorporation 10/1/2017 mmencement 12017
+Bank Details
+Bank Name FS Code Bank Account Number
+HDFC BANK HDFCoo01816 020002774214
+Employment Deals
+Mate Female omer Total
+2 o o 2
+Investment in Plant and Machinery OR Equipment (in Rs)
+lion
+cost of | Net Investment in
+Writen | otaon
+Mantands | total | Export | Net
+Jenn azscalfemerpe] Down | Cont | again OR | temmrer |aoer Tarsoner{PS27R|ETR
+ai | asa, | Egimenta | | ee
+and Industrial oo
+Say Dev
+[7 [0a Smal ï¿½ [50.00 joao Fs o0 era .00 T2200 es
+niu) Deas
+Sx |Uniexame |r [using | Vigetovn| mack [Road [iy | n|Sie | Distr
+savas rect
+1 Eavava, ï¿½ Rtoor, (NTC 2 SURAT. |ANIANA| TEXTILE [SURAT 59som2 GUJARAT SURAT
+Et Cent
+Otic addres of Enterprise
+jalDewinck No. _[STHFLOOR, S08 ï¿½ane of roms! Bling [HTC ARKET
+ï¿½ï¿½ SURAT ick ANIANA
+
+
+Page 4:
+Road/StreetvLane ï¿½ï¿½[HITECHTEXTILECENTRE City ï¿½SURAT
+ï¿½State (GUIARAT District SURAT Pin 395002
+Mobile (aureus Ema Tavanyacreation@icasoniin
+
+National Industry Classification Code(S)
+
+SNe, Nie 2 Digit Nie Digit Nie ï¿½ Digit ï¿½Activity
+13 Manufacture of [1399 Manufucure of other | 13999 - Manufacture of othr textles/ex
+1 hresties tewtles nec. products nec. Manufacturing
+
+ï¿½Are you interested to get registered on Government e-Market (GeM) Portal No
+
+ï¿½Are you interested to get registered on TReDS Porals(one or more) No
+
+ï¿½Are you interested to get registered on National Career Serviee(NCS) Portal
+
+District Industries Centre SURAT ( GUJARAT )
+
+ï¿½MSME-DFO AHMEDABAD ( GUJARAT )
+
+Date of Udyam Registration 2/11/2022
+
+Date of Printing 2/11/2022
+
+
+2024-01-30 11:22:38 INFO: Response from gpt: {
+  "udyam_registration_number": "UDYAM-G4-22-0197068",
+  "name_of_enterprise": "LAVANYA CREATIONS",
+  "type_of_enterprise": "SMALL",
+  "social_category_of_enterpreneur": "GENERAL",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "02/11/2022",
+  "national_industry_clasification_codes": {
+    "2_digit_code_with_activity": "13 - Manufacture of textiles",
+    "4_digit_code_with_activity": "1399 - Manufacture of other textiles nec. products",
+    "5_digit_code_with_activity": "13999 - Manufacture of other textiles nec. Manufacturing",
+    "activity": "Manufacturing"
+  },
+  "pin_code": "395002"
+}
+2024-01-30 11:22:38 INFO: 127.0.0.1 - - [30/Jan/2024 11:22:38] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:23:27 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:23:27 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:23:28 INFO: Inside udyam_ocr
+2024-01-30 11:23:28 INFO: File name: Others_9.pdf
+2024-01-30 11:23:28 INFO: Inside extract_text function
+2024-01-30 11:23:28 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:23:30 INFO: Extracted text from pdf and returned to API
+2024-01-30 11:23:30 INFO: Error in udyam_ocr: string indices must be integers, not 'str'
+2024-01-30 11:23:30 ERROR: Exception on /api/udyam/upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C222877\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1837, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a TypeError.
+2024-01-30 11:23:30 INFO: 127.0.0.1 - - [30/Jan/2024 11:23:30] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 11:26:54 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:26:54 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:26:57 INFO: Inside udyam_ocr
+2024-01-30 11:26:57 INFO: File name: Others_9.pdf
+2024-01-30 11:26:57 INFO: Inside extract_text function
+2024-01-30 11:26:57 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:26:59 INFO: Extracted text from pdf and returned to API
+2024-01-30 11:26:59 INFO: Text is extracted
+2024-01-30 11:26:59 INFO: Extracted Text: Page 1:
+UDYAM REGISTRATION CERTIFICATE
+
+UDYAM REGISTRATION NUMBER UDYAM-G4-22-0197068
+
+NAME OF ENTERPRISE, LAVANYA CREATIONS
+
+ï¿½TYPE OF ENTERPRIS ï¿½SMALL (Based on FY 2020-21 )
+
+maronsemey Paneractonsg |
+
+SOCIAL CATEGORY OF
+ENTREPRENEUR GENERAL
+Ui) Name
+NAME OF UNITS)
+
+sturtoon,soe |Same TC MARKET
+OF ENTERPRISE J< UEECHTENTILE cy, sumar
+
+Mote ï¿½aunsuis Ena Ibvanyarentina eso
+
+DATE OF INCORPORATION /
+
+REGISTRATION OF ENTERPRISE, toro
+DATE OF COMMENCEMENT OF
+PRODUCTION/BUSINESS. toro
+NCA NCS Aa
+NATIONAL INDUSTRY 1999 - Manufacter of ther | Mansfactarng
+CLASSIFICATION CODE(S) lofother textes nee, textentene products nce
+DATE OF UDYAM REGISTRATION ozauz0n
+
+ï¿½mca of radaation apmardirverse af stats af am eaterprie, the beset ofthe Government Schemes wile sailed as pe the provisions of
+Nolieation Na. S.0-2119E) dated 26062020 fae bythe Mla MSME-
+Dicer Ths comptr gence semen, sgt rire. Pred om bipshanseptaton ori & Dat of pring 0212022
+
+For any assistance, you may contact:
+
+|. District Industries Centre: surat (cusanar)
+
+2. MSME-DFO: AHMEDABAD (GUIARAT)
+
+Visit : wwrwamsme.gov.in ; www.demsme.gov:
+
+i www.champions.gov
+
+
+Page 2:
+
+Page 3:
+Aa ATER
+Government of india
+
+Aes, ory ed me se Ter
+Ministry of Micro, Small and Medium Enterprises
+
+Taam Regi anv
+Type of Emer] SMALL Naor Aety
+Type of Orgunlaton| Proprietary ï¿½Name of Enterprise LAVANYA CREATIONS
+ï¿½Owner Name SHRI RISHAV AGARWAL PAN BNZPALI6C
+Do you have GSTIN Yes Mobile No, $233725115
+Email 14 ivanyncreton@catonin Social Category | General
+Specialy |,
+Gender | Male Abled(DIVYANG) N
+Date of Commencement of
+Date of Incorporation 10/1/2017 mmencement 12017
+Bank Details
+Bank Name FS Code Bank Account Number
+HDFC BANK HDFCoo01816 020002774214
+Employment Deals
+Mate Female omer Total
+2 o o 2
+Investment in Plant and Machinery OR Equipment (in Rs)
+lion
+cost of | Net Investment in
+Writen | otaon
+Mantands | total | Export | Net
+Jenn azscalfemerpe] Down | Cont | again OR | temmrer |aoer Tarsoner{PS27R|ETR
+ai | asa, | Egimenta | | ee
+and Industrial oo
+Say Dev
+[7 [0a Smal ï¿½ [50.00 joao Fs o0 era .00 T2200 es
+niu) Deas
+Sx |Uniexame |r [using | Vigetovn| mack [Road [iy | n|Sie | Distr
+savas rect
+1 Eavava, ï¿½ Rtoor, (NTC 2 SURAT. |ANIANA| TEXTILE [SURAT 59som2 GUJARAT SURAT
+Et Cent
+Otic addres of Enterprise
+jalDewinck No. _[STHFLOOR, S08 ï¿½ane of roms! Bling [HTC ARKET
+ï¿½ï¿½ SURAT ick ANIANA
+
+
+Page 4:
+Road/StreetvLane ï¿½ï¿½[HITECHTEXTILECENTRE City ï¿½SURAT
+ï¿½State (GUIARAT District SURAT Pin 395002
+Mobile (aureus Ema Tavanyacreation@icasoniin
+
+National Industry Classification Code(S)
+
+SNe, Nie 2 Digit Nie Digit Nie ï¿½ Digit ï¿½Activity
+13 Manufacture of [1399 Manufucure of other | 13999 - Manufacture of othr textles/ex
+1 hresties tewtles nec. products nec. Manufacturing
+
+ï¿½Are you interested to get registered on Government e-Market (GeM) Portal No
+
+ï¿½Are you interested to get registered on TReDS Porals(one or more) No
+
+ï¿½Are you interested to get registered on National Career Serviee(NCS) Portal
+
+District Industries Centre SURAT ( GUJARAT )
+
+ï¿½MSME-DFO AHMEDABAD ( GUJARAT )
+
+Date of Udyam Registration 2/11/2022
+
+Date of Printing 2/11/2022
+
+
+2024-01-30 11:27:02 INFO: Response from gpt: {
+  "udyam_registration_number": "UDYAM-G4-22-0197068",
+  "name_of_enterprise": "LAVANYA CREATIONS",
+  "type_of_enterprise": "SMALL",
+  "social_category_of_enterpreneur": "GENERAL",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "02/11/2022",
+  "national_industry_clasification_codes": {
+    "2_digit_code_with_activity": "13 - Manufacture of textiles",
+    "4_digit_code_with_activity": "1399 - Manufacture of other textiles nec. products",
+    "5_digit_code_with_activity": "13999 - Manufacture of other textiles nec. products",
+    "activity": "Manufacturing"
+  },
+  "pin_code": "395002"
+}
+2024-01-30 11:27:02 INFO: 127.0.0.1 - - [30/Jan/2024 11:27:02] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:29:59 INFO: Inside udyam_ocr
+2024-01-30 11:30:00 INFO: File name: Aadhar.jpg
+2024-01-30 11:30:00 INFO: Inside extract_text function
+2024-01-30 11:30:00 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:30:00 INFO: Text is extracted
+2024-01-30 11:30:00 INFO: Extracted Text: SSE Tara fae
+Anushka Gajanan Sirsat
+WA anta/DOB: 02/10/2001
+afgen/ FEMALE
+
+issue Date: 02/12/2012
+
+2024-01-30 11:30:02 INFO: Response from gpt: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "SSE Tara fae",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "02/12/2012",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 11:30:02 INFO: 127.0.0.1 - - [30/Jan/2024 11:30:02] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:30:39 INFO: Inside udyam_ocr
+2024-01-30 11:30:39 INFO: File name: PAN card.jpg
+2024-01-30 11:30:39 INFO: Inside extract_text function
+2024-01-30 11:30:39 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:30:40 INFO: Text is extracted
+2024-01-30 11:30:40 INFO: Extracted Text: INCOME TAX DEPARTMENT
+Sarat HAT
+
+Permanent Account Number Card
+NLSPS2894L
+
+TTu /AMary
+aT /Name
+
+ANUSHKA GAJANAN SIRSAT
+
+TaaT wr ara / Father's Name
+GAJANAN SIRSAT
+
+AD Hl ARR /
+Date of Birth
+
+02/10/2001
+
+2024-01-30 11:30:42 INFO: Response from gpt: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "ANUSHKA GAJANAN SIRSAT",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "NOT AVAILABLE",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 11:30:42 INFO: 127.0.0.1 - - [30/Jan/2024 11:30:42] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:35:41 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:35:41 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:35:55 INFO: Inside udyam_ocr
+2024-01-30 11:35:55 INFO: File name: PAN card.jpg
+2024-01-30 11:35:55 INFO: Inside extract_text function
+2024-01-30 11:35:55 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:35:55 INFO: Text is extracted
+2024-01-30 11:35:55 INFO: Extracted Text: INCOME TAX DEPARTMENT
+Sarat HAT
+
+Permanent Account Number Card
+NLSPS2894L
+
+TTu /AMary
+aT /Name
+
+ANUSHKA GAJANAN SIRSAT
+
+TaaT wr ara / Father's Name
+GAJANAN SIRSAT
+
+AD Hl ARR /
+Date of Birth
+
+02/10/2001
+
+2024-01-30 11:35:57 INFO: Response from gpt: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "ANUSHKA GAJANAN SIRSAT",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "NOT AVAILABLE",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 11:35:57 INFO: 127.0.0.1 - - [30/Jan/2024 11:35:57] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:37:29 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:37:29 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:37:32 INFO: Inside udyam_ocr
+2024-01-30 11:37:32 INFO: File name: PAN card.jpg
+2024-01-30 11:37:32 INFO: Inside extract_text function
+2024-01-30 11:37:32 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:37:33 INFO: Text is extracted
+2024-01-30 11:37:33 INFO: Extracted Text: INCOME TAX DEPARTMENT
+Sarat HAT
+
+Permanent Account Number Card
+NLSPS2894L
+
+TTu /AMary
+aT /Name
+
+ANUSHKA GAJANAN SIRSAT
+
+TaaT wr ara / Father's Name
+GAJANAN SIRSAT
+
+AD Hl ARR /
+Date of Birth
+
+02/10/2001
+
+2024-01-30 11:37:35 INFO: Response from gpt: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "ANUSHKA GAJANAN SIRSAT",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "NOT AVAILABLE",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 11:37:35 INFO: 127.0.0.1 - - [30/Jan/2024 11:37:35] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:38:26 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:38:26 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:38:29 INFO: Inside udyam_ocr
+2024-01-30 11:38:29 INFO: File name: PAN card.jpg
+2024-01-30 11:38:29 INFO: Inside extract_text function
+2024-01-30 11:38:29 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:38:30 INFO: Text is extracted
+2024-01-30 11:38:30 INFO: Extracted Text: INCOME TAX DEPARTMENT
+Sarat HAT
+
+Permanent Account Number Card
+NLSPS2894L
+
+TTu /AMary
+aT /Name
+
+ANUSHKA GAJANAN SIRSAT
+
+TaaT wr ara / Father's Name
+GAJANAN SIRSAT
+
+AD Hl ARR /
+Date of Birth
+
+02/10/2001
+
+2024-01-30 11:38:32 INFO: Response from gpt: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "ANUSHKA GAJANAN SIRSAT",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "NOT AVAILABLE",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 11:38:32 INFO: 127.0.0.1 - - [30/Jan/2024 11:38:32] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:52:57 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:52:57 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:53:01 INFO: Inside udyam_ocr
+2024-01-30 11:53:01 INFO: File name: PAN card.jpg
+2024-01-30 11:53:01 INFO: Inside extract_text function
+2024-01-30 11:53:01 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:53:01 INFO: Text is extracted
+2024-01-30 11:53:01 INFO: Extracted Text: INCOME TAX DEPARTMENT
+Sarat HAT
+
+Permanent Account Number Card
+NLSPS2894L
+
+TTu /AMary
+aT /Name
+
+ANUSHKA GAJANAN SIRSAT
+
+TaaT wr ara / Father's Name
+GAJANAN SIRSAT
+
+AD Hl ARR /
+Date of Birth
+
+02/10/2001
+
+2024-01-30 11:53:04 INFO: Response from gpt: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "ANUSHKA GAJANAN SIRSAT",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "NOT AVAILABLE",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 11:53:04 INFO: Document uploaded is not a udyam aadhar document
+2024-01-30 11:53:04 INFO: 127.0.0.1 - - [30/Jan/2024 11:53:04] "[31m[1mPOST /api/udyam/upload HTTP/1.1[0m" 409 -
+2024-01-30 11:55:23 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-30 11:55:23 INFO: [33mPress CTRL+C to quit[0m
+2024-01-30 11:55:51 INFO: Inside udyam_ocr
+2024-01-30 11:55:51 INFO: File name: PAN card.jpg
+2024-01-30 11:55:51 INFO: Inside extract_text function
+2024-01-30 11:55:51 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:55:52 INFO: Text is extracted
+2024-01-30 11:55:52 INFO: Extracted Text: INCOME TAX DEPARTMENT
+Sarat HAT
+
+Permanent Account Number Card
+NLSPS2894L
+
+TTu /AMary
+aT /Name
+
+ANUSHKA GAJANAN SIRSAT
+
+TaaT wr ara / Father's Name
+GAJANAN SIRSAT
+
+AD Hl ARR /
+Date of Birth
+
+02/10/2001
+
+2024-01-30 11:55:54 INFO: Response from GPT: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "ANUSHKA GAJANAN SIRSAT",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "NOT AVAILABLE",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 11:55:54 INFO: Document uploaded is not a udyam aadhar document
+2024-01-30 11:55:54 INFO: 127.0.0.1 - - [30/Jan/2024 11:55:54] "[31m[1mPOST /api/udyam/upload HTTP/1.1[0m" 409 -
+2024-01-30 11:56:21 INFO: Inside udyam_ocr
+2024-01-30 11:56:21 INFO: No document sent in API
+2024-01-30 11:56:21 INFO: 127.0.0.1 - - [30/Jan/2024 11:56:21] "[31m[1mPOST /api/udyam/upload HTTP/1.1[0m" 409 -
+2024-01-30 11:56:24 INFO: Inside udyam_ocr
+2024-01-30 11:56:24 INFO: Error in udyam_ocr: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2024-01-30 11:56:24 INFO: 127.0.0.1 - - [30/Jan/2024 11:56:24] "[35m[1mPOST /api/udyam/upload HTTP/1.1[0m" 500 -
+2024-01-30 11:56:30 INFO: Inside udyam_ocr
+2024-01-30 11:56:30 INFO: No document sent in API
+2024-01-30 11:56:30 INFO: 127.0.0.1 - - [30/Jan/2024 11:56:30] "[31m[1mPOST /api/udyam/upload HTTP/1.1[0m" 409 -
+2024-01-30 11:56:35 INFO: Inside udyam_ocr
+2024-01-30 11:56:35 INFO: File name: giphy.gif
+2024-01-30 11:56:35 INFO: Inside extract_text function
+2024-01-30 11:56:35 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:56:35 INFO: 127.0.0.1 - - [30/Jan/2024 11:56:35] "[31m[1mPOST /api/udyam/upload HTTP/1.1[0m" 409 -
+2024-01-30 11:56:51 INFO: Inside udyam_ocr
+2024-01-30 11:56:51 INFO: File name: Udyam_Aadhar_3.pdf
+2024-01-30 11:56:51 INFO: Inside extract_text function
+2024-01-30 11:56:51 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:56:52 INFO: Extracted text from pdf and returned to API
+2024-01-30 11:56:52 INFO: Text is extracted
+2024-01-30 11:56:52 INFO: Extracted Text: Page 1:
+ana ATER
+
+es ged oe oe
+Ministry of Miro, Small and Medium Enterprises
+
+UDYAM REGISTRATION CERTIFICATE
+
+UDYAM REGISTRATION
+NUMBER ï¿½UDYAM-HR-08-0025720
+
+NAME OF ENTERPRISE AMIT KUMAR
+
+TNPEOPENTERPRISEï¿½ [202324 ï¿½|= Microï¿½)ï¿½= 31/08/2023
+
+oa
+
+SOCIAL CATEGORY OF
+ENTREPRENEUR GEyERAL
+ï¿½NAME OF UNIT(S) S.No. Name of Unit(s)
+Sani arlare
+Name af
+Fiavecrmiock [Ground [Penney] #caztast2
+suiling
+martes
+orricaLaponess or ï¿½|iagetown ï¿½tmatar [nck jing
+ENTERPRISE. find fine +
+oaastrecttane E81 ley pnd
+ate ARVANA [District ND, Pn 126302
+Mobile 00181183 mal: | amisain 401886@gmallcom
+bate oF
+INCORPORATION
+REGISTRATION OF 1012017
+ENTERPRISE
+bate oF
+COMMENCEMENT OF oxou2017
+PRODUCTION BUSINESS
+Wo] NICEbigK [NIC TDIGK | ES Dig | ï¿½ Aap
+1 /i6-Manufacre eat Teri9- tanuacaring
+Stoond and Manufacture of | Monafacture
+NATIONAL INDUSTRY Prodattsstwooa wencershects, of:
+CLASSIFICATION, Thdconeacep manure of iyo
+sees" \eiywood [Bebdarte
+copes) ï¿½manufacture of ï¿½ laminboard, nec.
+eras purl nea
+Shdplating  Endaher peel
+Baek Sian!
+
+
+Page 2:
+DATE OF UDYAM 31/08/2023
+REGISTRATION
+
+* in case of graduation (upwardireverse) of status of an enterprise, the benefit of the Government
+Schemes will be availed as per the provisions of Notification No. 8.0. 2119(F) dated 25.06.2020 Issued by
+the Mo MSME.
+
+Disclaimer: This is computer generated statement, no signature required. Printed from
+nts: fudyamregstration gavin & Date of printing 31082023,
+For any assistance, you may contact:
+
+1. District Industries
+
+Contre: JIND (HARYANA)
+
+2. MSME-DFO: KARNAL (HARYANA )
+
+Visit: www.msme.gov.in ; www.demsme.gov.in;
+
+
+2024-01-30 11:56:55 INFO: Response from GPT: {
+  "udyam_registration_number": "UDYAM-HR-08-0025720",
+  "name_of_enterprise": "AMIT KUMAR",
+  "type_of_enterprise": "Micro",
+  "social_category_of_enterpreneur": "General",
+  "date_of_incorporation_registration_of_enterprise": "10/12/2017",
+  "date_of_commencement_of_production_business": "10/07/2017",
+  "date_of_udyam_registration": "31/08/2023",
+  "national_industry_clasification_codes": {
+    "2_digit_code_with_activity": "16-Manufacture of wood and products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",
+    "4_digit_code_with_activity": "1621-Manufacture of veneer sheets, plywood, laminboard, particle board and other panels and boards",
+    "5_digit_code_with_activity": "16211-Manufacture of veneer sheets and plywood",
+    "activity": "Manufacture of veneer sheets and plywood"
+  },
+  "pin_code": "126302"
+}
+2024-01-30 11:56:55 INFO: 127.0.0.1 - - [30/Jan/2024 11:56:55] "POST /api/udyam/upload HTTP/1.1" 200 -
+2024-01-30 11:57:07 INFO: Inside udyam_ocr
+2024-01-30 11:57:07 INFO: File name: UDYAM AADHAR_2.jpg
+2024-01-30 11:57:07 INFO: Inside extract_text function
+2024-01-30 11:57:07 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:57:08 INFO: Text is extracted
+2024-01-30 11:57:08 INFO: Extracted Text: Dcas
+Government of india
+
+es, ry ed eH eH HTT
+Ministry of Micro, Small and Medium Enterprises
+
+UDYAM
+REGISTRATION CERTIFICATE
+
+= i ï¿½ i.
+coset
+
+NAMEOF UNITS)
+Fata TO Raat mag [KORO TENT
+[aavione [RET RNG ROAR NEA fa =
+Siem Re wee ea En) a
+eXSNCION COB) | [Emer Se Neti iy Mean
+DATEOF UDYAM meGIsTRATION vouzi2e
+
+1st
+
+2. MSME-DI Auouepanancctannary
+
+2024-01-30 11:57:10 INFO: Response from GPT: {
+  "udyam_registration_number": "NOT AVAILABLE",
+  "name_of_enterprise": "F  t mag [KORO TENT",
+  "type_of_enterprise": "NOT AVAILABLE",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "NOT AVAILABLE",
+  "national_industry_clasification_codes": "NOT AVAILABLE",
+  "pin_code": "NOT AVAILABLE"
+}
+2024-01-30 11:57:10 INFO: Document uploaded is not a udyam aadhar document
+2024-01-30 11:57:10 INFO: 127.0.0.1 - - [30/Jan/2024 11:57:10] "[31m[1mPOST /api/udyam/upload HTTP/1.1[0m" 409 -
+2024-01-30 11:58:35 INFO: Inside udyam_ocr
+2024-01-30 11:58:35 INFO: File name: UDYAM AADHAR_1.jpg
+2024-01-30 11:58:35 INFO: Inside extract_text function
+2024-01-30 11:58:35 INFO: Tesseract path: dependencies/Tesseract-OCR/tesseract
+2024-01-30 11:58:37 INFO: Text is extracted
+2024-01-30 11:58:37 INFO: Extracted Text: pT eee MhSn=
+Government of India Sane al
+
+Wey, TY Wa HEATH TAA HATTA
+Ministry of Micro, Small and Medium Enterprises
+
+UDYAM REGISTRATION CERTIFICATE
+
+UDYAM REGISTRATION NUMBER UDYAM-UP-74-0006711
+
+NAME OF ENTERPRISE SHAHANSHAH
+
+‘TYPE OF ENTERPRISE * MICRO ( Based on FY 2020-21 )
+MAJOR ACTIVITY
+
+SOCIAL CATEGORY OF Greets
+
+ENTREPRENEUR
+‘S.No. ‘Name of Unit(s)
+
+NAME OF UNIT(S) 1 |HAIR LOOK MENS PARLOUR
+
+2 |SHAHANSHAH ENTERPRISES
+
+Flat/Door/Block | HAIR LOOK MENS. Name of Premises/ Sorte
+No. /PARLO Building | i
+Village/Town | OLD RUBBER FACTORY | Block | SHUKLAGANS
+OFFICAL ADDRESS OF ENTERPRISE [Ro casirecuLane|NETUWA City |GANGAGHAT
+State UTTAR PRADESH District | UNNAO , Pin 209861
+Mobile 9628421413 Email: [bairlookmenspariour@ gmail.com
+DATE OF INCORPORATION /
+REGISTRATION OF ENTERPRISE. stein
+DATE OF COMMENCEMENT OF
+PRODUCTION/BUSINESS eliet/ze12
+SNo.| NIC 2 Digit NIC 4 Digit NIC 5 Digit | Activity
+1 47 - Retail 4771 - Retail sale of clothing, footwear and leather articles in | 47713 - Trading
+trade, except | specialized stores Retail sale of
+‘of motor | footwear
+NATIONAL INDUSTRY bess
+CLASSIFICATION CODE(S) scaaith al _|
+2 |96-Other | 9602 - Hairdressing and other beauty treatment (This class |96a20- | Services
+personal includes hair washing, trimming and cutting, setting, dyeing, | Hairdressing
+service tinting, waving, straightening and similar activities for men and —_ and other
+activities ‘omen,shaving and beard trimming, facial massage, manicure and | beauty
+pedicure, makeup etc.) ‘treatment
+DATE OF UDYAM REGISTRATION 14/09/2022
+
+“In case of graduation (upward/reverse) of status of an enterprise, the benefit of the Government Schemes will be availed as per the provisions of Notification No.
+$.0. 2119(E) dated 26.06.2020 issued by the M/o MSME.
+
+Disclaimer: This is computer generated statement, no signature required. Printed from https:/udyamregistration gov in & Date of printing:~ 14/09/2022
+
+For any assistance, you may contact:
+1. District Industries Centre: | UNNAO (UTTAR PRADESH )
+
+2. MSME-DFO: KANPUR (UTTAR PRADESH )
+
+Visit : www.msme.gov.in ; www.demsme.gov.in ; www.champion|
+
+Dminmsme msmechampi:
+
+shee
+
+2024-01-30 11:58:39 INFO: Response from GPT: {
+  "udyam_registration_number": "UDYAM-UP-74-0006711",
+  "name_of_enterprise": "SHAHANSHAH",
+  "type_of_enterprise": "MICRO",
+  "social_category_of_enterpreneur": "NOT AVAILABLE",
+  "date_of_incorporation_registration_of_enterprise": "NOT AVAILABLE",
+  "date_of_commencement_of_production_business": "NOT AVAILABLE",
+  "date_of_udyam_registration": "14/09/2022",
+  "national_industry_clasification_codes": {
+    "2_digit_code_with_activity": "47 - Retail",
+    "4_digit_code_with_activity": "4771 - Retail sale of clothing, footwear and leather articles in trade, except specialized stores",
+    "5_digit_code_with_activity": "47713 - Trading of motor footwear",
+    "activity": "Retail sale of footwear"
+  },
+  "pin_code": "209861"
+}
+2024-01-30 11:58:39 INFO: 127.0.0.1 - - [30/Jan/2024 11:58:39] "POST /api/udyam/upload HTTP/1.1" 200 -
