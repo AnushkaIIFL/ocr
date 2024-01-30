@@ -70,7 +70,7 @@ If value is not available please return NOT AVAILABLE
         json_data = json.loads(response)
         if json_data["udyam_registration_number"] == "NOT AVAILABLE":
             logger_msg("Document uploaded is not a udyam aadhar document")
-            return {"error": "Please check if the document uploaded is UDYAM"}, 409
+            return {"error": "Unable to extract data. Please check if the document uploaded is UDYAM"}, 409
 
         return json_data, 200
     except Exception as e:
